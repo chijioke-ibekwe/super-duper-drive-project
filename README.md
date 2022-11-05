@@ -1,6 +1,6 @@
 # Super*Duper*Drive Cloud Storage
 Super Duper Drive is a storage application that allows users to store files, notes and credentials in the cloud. This project was developed in completing the Udacity Java Developer Nanodegree. 
-It is built using Spring Boot framework.
+It was built using Spring Boot framework.
 
 #### Features:
 - User Authentication
