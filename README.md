@@ -9,9 +9,9 @@ It was built using Spring Boot framework.
 - Credentials creation, update and deletion
 
 #### Screenshots:
-<img src="src/main/resources/static/images/files-pages.png" alt="files_page" width="700" height="330">
-<img src="src/main/resources/static/images/notes-page-2.png" alt="notes-page" width="700" height="330">
-<img src="src/main/resources/static/images/credentials-page.png" alt="credentials_page" width="700" height="330">
+<img src="src/main/resources/static/images/files-pages.png" alt="files_page" width="700" height="300">
+<img src="src/main/resources/static/images/notes-page-2.png" alt="notes-page" width="700" height="300">
+<img src="src/main/resources/static/images/credentials-page.png" alt="credentials_page" width="700" height="300">
 
 ## Getting Started
 ### Prerequisites
