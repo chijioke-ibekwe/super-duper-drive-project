@@ -9,9 +9,9 @@ It is built using Spring Boot framework.
 - Credentials creation, update and deletion
 
 #### Screenshots:
-<img src="src/main/resources/static/images/files-pages.png" alt="files_page" width="700" height="380">
-<img src="src/main/resources/static/images/notes-page-2.png" alt="notes-page" width="700" height="380">
-<img src="src/main/resources/static/images/credentials-page.png" alt="credentials_page" width="700" height="380">
+<img src="src/main/resources/static/images/files-pages.png" alt="files_page" width="700" height="330">
+<img src="src/main/resources/static/images/notes-page-2.png" alt="notes-page" width="700" height="330">
+<img src="src/main/resources/static/images/credentials-page.png" alt="credentials_page" width="700" height="330">
 
 ## Getting Started
 ### Prerequisites
@@ -28,13 +28,13 @@ For backend
 
 For frontend
 1. Thymeleaf
-2. Bootstrap 5
+2. Bootstrap 4
 
 ## How to Run
 To run the application locally:
 - Clone the repository using the following command:
 ```
-git clone https://github.com/<your-git-username>/ping-me.git
+git clone https://github.com/<your-git-username>/super-duper-drive-project.git
 ```
 
 - Run the app by executing the main method in the com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplication class from your IDE or by running:
