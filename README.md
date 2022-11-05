@@ -1,6 +1,6 @@
 # Super*Duper*Drive Cloud Storage
-Super Duper Drive is a storage application that allows users to store files, notes and credentials in the cloud for future use. This project was developed in completing the Udacity Java Developer Nanodegree. 
-It is a Spring Boot application.
+Super Duper Drive is a storage application that allows users to store files, notes and credentials in the cloud. This project was developed in completing the Udacity Java Developer Nanodegree. 
+It is built using Spring Boot framework.
 
 #### Features:
 - User Authentication
@@ -9,9 +9,9 @@ It is a Spring Boot application.
 - Credentials creation, update and deletion
 
 #### Screenshots:
-<img src="src/main/resources/static/images/files-pages.png" alt="files_page" width="700" height="450">
-<img src="src/main/resources/static/images/notes-page-2.png" alt="notes-page" width="700" height="450">
-<img src="src/main/resources/static/images/credentials-page.png" alt="credentials_page" width="700" height="450">
+<img src="src/main/resources/static/images/files-pages.png" alt="files_page" width="700" height="380">
+<img src="src/main/resources/static/images/notes-page-2.png" alt="notes-page" width="700" height="380">
+<img src="src/main/resources/static/images/credentials-page.png" alt="credentials_page" width="700" height="380">
 
 ## Getting Started
 ### Prerequisites
@@ -39,7 +39,9 @@ git clone https://github.com/<your-git-username>/ping-me.git
 
 - Run the app by executing the main method in the com.udacity.jwdnd.course1.cloudstorage.CloudStorageApplication class from your IDE or by running:
 ```  
-mvn spring-boot:run"
+mvn spring-boot:run
 ```
 
+## Author
+- Chijioke Ibekwe (https://github.com/chijioke-ibekwe)
 
